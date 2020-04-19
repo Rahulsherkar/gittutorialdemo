@@ -1,3 +1,0 @@
-this is version of the one 
-i want to this commit 
-this is change now
